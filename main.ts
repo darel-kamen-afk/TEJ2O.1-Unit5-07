@@ -6,7 +6,8 @@
 */
 
 // variables
-let servoNumber1 = robotbit.Servos.S1
+const servoNumber1 = robotbit.Servos.S1
+
 
 
 //setup
